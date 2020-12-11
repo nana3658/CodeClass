@@ -23,7 +23,7 @@
 
 
 
-## LeetCode 刷题笔记
+## LeetCode 算法刷题笔记
 
 **LeetCode 题解**
 
