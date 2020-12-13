@@ -15,7 +15,9 @@
 
 
 
-## LeetCode 算法刷题笔记
+## 学习资源
+
+### LeetCode 算法刷题笔记
 
 **LeetCode 题解**
 
@@ -31,6 +33,11 @@
 
 链接：https://pan.baidu.com/s/187fKVYl1jKw9VmZFPQBU9A 
 提取码：m6ec 
+
+### 浙大计算机课程共享
+
+链接：https://pan.baidu.com/s/1ktoppJ6qK7hcn3c5V4fXMA 
+提取码：lvnt 
 
 
 
