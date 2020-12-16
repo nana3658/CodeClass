@@ -67,9 +67,9 @@
 
 ### 精华文章
 
-[干货 | 非常详细的 Linux C/C++ 学习路线总结](https://mp.weixin.qq.com/s/LYfsChbmFRH1B3s_j0vIAQ)
-
 [干货：21 张思维导图，柠檬哥肝了半个月的「后端技术学习路线」长啥样？](https://mp.weixin.qq.com/s/tR8FubbsXnZNiIc8F94zCw)
+
+[干货 | 非常详细的 Linux C/C++ 学习路线总结](https://mp.weixin.qq.com/s/LYfsChbmFRH1B3s_j0vIAQ)
 
 [图解：数据结构中的 6 类树，你心中有数吗？](https://mp.weixin.qq.com/s/3u6I8XSmp_M8wIw__tDrLQ)
 
@@ -95,7 +95,11 @@
 
 [我在一线城市买房了，靠着自己努力和...](https://mp.weixin.qq.com/s/kN1jpWByBs2ztg44ZDKWKQ)
 
+[坚持写作，赚了第一桶金](https://mp.weixin.qq.com/s/5HoMETUZjhN7d8i5SI6ugQ)
+
 [又是一年高考时，聊聊柠檬哥的高考和高中](https://mp.weixin.qq.com/s/0Ku8_k0ABvMYKJx57N7eDQ)
+
+[了解我从这这开始，半年原创汇总](https://mp.weixin.qq.com/s/wdD4LFsR_IilPBTIxWpJ2A)
 
 [花了半个月时间，我给自己买了份商业保险](https://mp.weixin.qq.com/s/cIm_W3RgoKJwecRY9oMPlQ)
 
